@@ -184,19 +184,3 @@ These documents contain the corresponding practical/program details.
 Spandana S
 B.Tech – Information Technology
 
-📌 Note
-
-This repository is created for academic learning and practical coursework in Advanced Java, JDBC, JSP, Servlets, and MySQL.
-
-
-### GitHub repository description
-
-You can use this short description under your repository name:
-
-> **Advanced Java practical programs using Java, JSP, Servlets, JDBC, MySQL, and Apache Tomcat, including web applications, database connectivity, student registration, and practical outputs.**
-
-### Recommended repository name
-
-**`Advanced-Java`**
-
-For the GitHub `README.md`, copy the full content above into a file named exactly **`README.md`** in your r
